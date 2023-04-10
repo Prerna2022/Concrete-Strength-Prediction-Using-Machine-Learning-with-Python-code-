@@ -19,11 +19,11 @@ Saving the model
 
  
 
-Dataset
+## Dataset
 We will use a concrete compressive strength dataset which was retrieved from the Kaggle, you can click here for the dataset.
 
 
-##Dataset knowledge
+## Dataset knowledge
 If you download this dataset, you see that several features affect the quality of concrete. So we discuss brief of each feature:
 
 1.cement: a substance used for construction that hardens to other materials to bind them together.
@@ -46,7 +46,7 @@ If you download this dataset, you see that several features affect the quality o
 
 Now, we will import some important modules:
 
-##Importing Modules
+## Importing Modules
 For further process we have to import some important modules present in python:
 
 # importing pandas
@@ -59,7 +59,7 @@ import matplotlib.pyplot as plt
 import seaborn as sb
 So, we import pandas for data analysis, NumPy for calculating N-dimensional array, seaborn, and matplotlib to visualize the data.
 
-##Reading data
+## Reading data
 Generally, we use a dataset in the form of a CSV file, for reading this CSV file we will use the panda’s library, let’s see:
 
 df = pd.read_csv(' Concrete_data.csv ')
