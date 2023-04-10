@@ -1,6 +1,6 @@
 # Concrete-Strength-Prediction-Using-Machine-Learning-with-Python-code-
 This study aims to determine the influence of the content of water and cement, water–binder ratio, and the replacement of fly ash and silica fume on the durability of high performance concrete. Strength of concrete will be predicted using various regression method and performance of the models will be analyzed using different performance metric
-# we are going to analyze the Concrete Compressive Strength dataset and build a Machine Learning model to predict the quality:
+## we are going to analyze the Concrete Compressive Strength dataset and build a Machine Learning model to predict the quality:
 Dataset
 Dataset knowledge
 Importing modules
